@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here you can find my open-source projects and expe
 
 ### ☕ Support My Work
 If you find my projects or repositories helpful, you can buy me a coffee!  
-Supports **International (Visa / Mastercard / Apple Pay / Google Pay)** and **Indonesian (QRIS / GoPay / OVO / DANA / Bank Transfer)** payments:
 
 [![Donate via SociaBuzz](https://img.shields.io/badge/Donate-SociaBuzz%20(Global%20%26%20Local)-79B543?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://sociabuzz.com/choppop/tribe)
 
