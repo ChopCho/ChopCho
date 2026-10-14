@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ChopCho/ChopCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you can find my open-source projects and experiments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ Support My Work
+If you find my projects or repositories helpful, you can buy me a coffee!  
+Supports **International (Visa / Mastercard / Apple Pay / Google Pay)** and **Indonesian (QRIS / GoPay / OVO / DANA / Bank Transfer)** payments:
+
+[![Donate via SociaBuzz](https://img.shields.io/badge/Donate-SociaBuzz%20(Global%20%26%20Local)-79B543?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://sociabuzz.com/choppop/tribe)
+
+<a href="https://sociabuzz.com/choppop/tribe">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://sociabuzz.com/choppop/tribe" width="140" alt="Scan to Donate via SociaBuzz" />
+</a>
+
+> 💡 *International supporters: You can switch the language to **English (EN)** and currency to **USD / EUR / SGD** at the top right corner of the SociaBuzz page.*
